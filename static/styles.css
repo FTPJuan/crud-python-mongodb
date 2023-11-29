@@ -1,0 +1,9 @@
+body {
+    background-image: url('../static/fondo.png');
+    background-size: cover;
+}
+
+.titulo {
+    color: black;
+    background-color: white;
+}
